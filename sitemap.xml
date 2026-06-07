@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://weiqin.dpdns.org/tags/index.html</loc>
+    <loc>https://weiqin.dpdns.org/categories/index.html</loc>
     
     <lastmod>2026-06-04</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://weiqin.dpdns.org/categories/index.html</loc>
+    <loc>https://weiqin.dpdns.org/tags/index.html</loc>
     
     <lastmod>2026-06-04</lastmod>
     
@@ -65,6 +65,27 @@
 
   
   <url>
+    <loc>https://weiqin.dpdns.org/tags/%E9%AB%98%E8%80%83/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://weiqin.dpdns.org/tags/%E9%9D%92%E6%98%A5/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://weiqin.dpdns.org/tags/%E6%97%B6%E4%BB%A3%E6%80%9D%E8%80%83/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://weiqin.dpdns.org/tags/2026%E4%B8%96%E7%95%8C%E6%9D%AF/</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -87,27 +108,6 @@
   
   <url>
     <loc>https://weiqin.dpdns.org/tags/%E5%A7%86%E5%B7%B4%E4%BD%A9/</loc>
-    <lastmod>2026-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://weiqin.dpdns.org/tags/%E9%AB%98%E8%80%83/</loc>
-    <lastmod>2026-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://weiqin.dpdns.org/tags/%E6%AF%95%E4%B8%9A%E5%AD%A3/</loc>
-    <lastmod>2026-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://weiqin.dpdns.org/tags/%E4%BA%BA%E7%94%9F%E9%80%89%E6%8B%A9/</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -142,20 +142,27 @@
   </url>
   
   <url>
-    <loc>https://weiqin.dpdns.org/tags/%E9%9D%92%E6%98%A5/</loc>
+    <loc>https://weiqin.dpdns.org/tags/%E6%AF%95%E4%B8%9A%E5%AD%A3/</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://weiqin.dpdns.org/tags/%E6%97%B6%E4%BB%A3%E6%80%9D%E8%80%83/</loc>
+    <loc>https://weiqin.dpdns.org/tags/%E4%BA%BA%E7%94%9F%E9%80%89%E6%8B%A9/</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
+  
+  <url>
+    <loc>https://weiqin.dpdns.org/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://weiqin.dpdns.org/categories/%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B/</loc>
@@ -166,13 +173,6 @@
   
   <url>
     <loc>https://weiqin.dpdns.org/categories/%E6%97%B6%E4%BB%A3%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2026-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://weiqin.dpdns.org/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
